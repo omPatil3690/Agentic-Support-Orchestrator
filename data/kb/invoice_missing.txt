@@ -1,0 +1,20 @@
+Title: Invoice Not Received by User
+
+Users may report that they did not receive an invoice
+after completing a successful payment.
+
+Common reasons:
+- Invoice email was sent to spam or junk folder
+- Incorrect billing email address
+- Delay in invoice generation
+
+Steps to resolve:
+1. Verify the user's payment status
+2. Confirm the billing email address
+3. Regenerate the invoice if required
+4. Send the invoice to the registered billing email
+5. Provide instructions to download invoices from the user dashboard
+
+Important notes:
+- Invoices should only be sent to verified billing emails
+- Do not share invoices containing sensitive information in chat

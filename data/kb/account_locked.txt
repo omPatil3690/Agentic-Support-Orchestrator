@@ -1,0 +1,19 @@
+Title: Account Locked Due to Multiple Failed Login Attempts
+
+If a user enters an incorrect password multiple times,
+the system may temporarily lock the account for security reasons.
+
+Common reasons:
+- Too many failed login attempts
+- Suspicious login activity
+- Login attempts from unknown devices
+
+Steps to resolve:
+1. Verify the user's identity using registered email or phone number
+2. Unlock the account using the admin tool
+3. Send a password reset link to the registered email
+4. Ask the user to set a new password and try logging in again
+
+Important notes:
+- Do not disclose internal security thresholds
+- Do not unlock accounts without identity verification

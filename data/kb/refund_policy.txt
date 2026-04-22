@@ -1,0 +1,23 @@
+Title: Refund Policy and Processing Time
+
+Refunds are issued when a user cancels a subscription
+or when an eligible payment dispute is approved.
+
+Refund conditions:
+- Refunds are available within the first 7 days of subscription
+- Refunds are not applicable after the billing cycle ends
+- Partial refunds are not supported unless stated otherwise
+
+Steps to resolve refund requests:
+1. Verify the user's payment and subscription details
+2. Check if the refund request falls within the eligible period
+3. Initiate the refund through the billing system
+4. Inform the user about the expected processing time
+
+Processing time:
+- Refunds typically take 3 to 5 business days
+- Bank processing times may vary
+
+Important notes:
+- Do not promise instant refunds
+- Refund eligibility must be verified before initiation

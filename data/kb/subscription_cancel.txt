@@ -1,0 +1,20 @@
+Title: Subscription Cancellation Request
+
+Users may request to cancel their active subscription
+to stop future billing.
+
+Common reasons:
+- No longer using the service
+- Pricing concerns
+- Temporary requirement
+
+Steps to resolve:
+1. Verify the user's account and subscription status
+2. Confirm the cancellation request
+3. Cancel the subscription through the billing system
+4. Inform the user about access validity until the billing period ends
+5. Explain refund eligibility if applicable
+
+Important notes:
+- Cancellation stops future billing but does not always trigger a refund
+- Access usually remains active until the current billing cycle ends
